@@ -25,7 +25,7 @@ task_7/ ├── d2_net/ │ ├── init.py │ ├── feature_extraction
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/repo-name.git
+   git clone https://github.com/yNarenmc27/Image-matching.git
 Navigate to the project directory:
 
 cd repo-name/task_7
