@@ -62,7 +62,7 @@ Scalability: Handles large datasets and can be fine-tuned as the database grows.
 Adaptability: Works effectively across different image categories, from faces to landscapes.
 Installation
 To run the algorithms or experiment with the implementations, clone the repository and install the necessary dependencies.
-
+q
 bash
 Copy code
 git clone https://github.com/your-username/image-matching-algorithms.git
