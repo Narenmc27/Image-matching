@@ -21,7 +21,7 @@ This project implements a **Reverse Image Matching System** using the D2-Net fea
 
 ## Directory Structure
 ```
-task_7/
+Foldername/
 ├── d2_net/
 │   ├── __init__.py
 │   ├── feature_extraction.py
